@@ -48,5 +48,18 @@ led to the substantial investments in these particular districts?
 # Data model
 ![Data model](https://github.com/Vin0th14/Telangana-growth-analysis/assets/140651343/02dc6e7b-6684-4de8-adf0-c529cc53d9d1)
 
+# Dashboard
+![Dashboard - 1](https://github.com/Vin0th14/Telangana-growth-analysis/assets/140651343/a3c0d60d-e227-47a0-bb14-71a20b71e897)
+![Dashboard - 2](https://github.com/Vin0th14/Telangana-growth-analysis/assets/140651343/71c84fe7-918e-423e-8774-f5ced9a6ee4f)
+
+# Recommendations to Telangana government based on analysis
+* Develop skill development programs to enhance the employability of the workforce, especially in emerging sectors.
+* Continue to invest in transportation infrastructure, including roads, highways, and public transportation systems, to improve connectivity within and outside the state.
+* Establish startup incubators, accelerators, and co-working spaces to nurture entrepreneurial talent.
+* Develop and market tourist destinations, cultural heritage sites, and eco-tourism opportunities to attract domestic and international tourists
+* Embrace data analytics and technology for evidence-based policymaking and economic planning.
+
+
+
 
 
