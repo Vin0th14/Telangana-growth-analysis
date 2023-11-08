@@ -8,7 +8,7 @@ Understand their attributes, categories and time period.
 * Analyze trends and patterns within each department.
 * Identify growth opportunities and areas needing attention. 
 * Find correlation among these departments and report the overall growth of the 
-state through insights and relevant visuals
+state through insights and relevant visuals.
 
 # Task list
 1. How does the revenue generated from document registration vary
