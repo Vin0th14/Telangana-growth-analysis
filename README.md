@@ -44,3 +44,9 @@ led to the substantial investments in these particular districts?
 10. Is there any relationship between district investments, vehicles sales and stamps revenue within the same district between FY 2021 and 2022?  
 11. Are there any particular sectors that have shown substantial investment in multiple districts between FY 2021 and 2022? 
 12. Can we identify any seasonal patterns or cyclicality in the investment trends for specific sectors? Do certain sectors experience higher investments during particular months?
+
+# Data model
+![Data model](https://github.com/Vin0th14/Telangana-growth-analysis/assets/140651343/02dc6e7b-6684-4de8-adf0-c529cc53d9d1)
+
+
+
